@@ -7,7 +7,7 @@
     font-size: 22px !important;
     font-weight: bold !important;
     color: white !important;
-    background-color: #1f65e6 !important;
+    background-color: rgb(164, 23, 235) !important;
     border: none;
     border-radius: 4px ;
     transition: 0.3s !important;
@@ -41,13 +41,14 @@
   }
   .run-btn{
     position: absolute !important;
-    bottom: 10px !important;
+    bottom: 15px !important;
     right: 800px !important;
     font-size: 22px !important;
     font-weight: bold !important;
     background-color: #afec3f !important;
     border: none ;
     border-radius: 4px ;
+    height:40px;
     transition: 0.3s !important;
    
   }

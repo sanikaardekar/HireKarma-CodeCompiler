@@ -72,9 +72,7 @@ export default function LandingPage() {
           </Grid>
           <Grid item display="flex" justifyContent="center" alignItems="center">
             <Card className={classes.card}>
-              <CardMedia
-                component="iframe" src={Video} allow="autoPlay" 
-              />
+              <CardMedia component="iframe" src={Video} allow="autoPlay" />
             </Card>
           </Grid>
         </div>
@@ -99,7 +97,7 @@ const useStyles = makeStyles(() => ({
   card: {
     marginTop: "40px",
     display: "flex",
-    justifyContent: "center",
+
     background: "rgba( 84, 78, 78, 0.35 )!important",
     boxShadow: "0 8px 32px 0 rgba( 31, 38, 135, 0.37 )!important",
     backdropFilter: "blur( 3.5px )!important",

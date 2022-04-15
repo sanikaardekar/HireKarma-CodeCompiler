@@ -56,6 +56,7 @@ export default function Navbar({
           max="30"
           value={fontSize}
           step="2"
+          color="rgb(164, 23, 235)!important"
           onChange={(e) => {
             setFontSize(e.target.value);
           }}
