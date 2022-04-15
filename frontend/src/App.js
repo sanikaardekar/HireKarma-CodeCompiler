@@ -1,17 +1,17 @@
-import './App.css';
+import LandingPage from "./screens/LandingPage";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Code from './screens/Code';
 
 function App() {
-  return (
+
+   return (
     <div className="App">
-    <Router>
-      <Routes>
-        <Route exact path="/" element={<></>}/>
+<Router>
+    <Routes>
+        <Route exact path="/" element={<><LandingPage/></>}/>
         <Route exact path="/code" element={<><Code/></>}/>
-      </Routes>
-      </Router>  
-    
+    </Routes>
+</Router> 
     </div>
   );
 }
