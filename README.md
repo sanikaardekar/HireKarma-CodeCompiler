@@ -1,5 +1,6 @@
 # HireKarma-CodeCompiler <br>
-Home page <br>
+Home page <br><br>
+  Code can be viewed here (master branch) : https://github.com/sanikaardekar/HireKarma-CodeCompiler/tree/master <br>
 ![Screenshot (55)](https://user-images.githubusercontent.com/80094199/163565155-72e89b02-c4bb-4c96-b2e8-6569ef17e2f3.png) <br>
 Light Mode <br>
 ![Screenshot (56)](https://user-images.githubusercontent.com/80094199/163565223-f83edfae-942b-4d43-aa89-08a6d41c4775.png) <br>
